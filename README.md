@@ -9,7 +9,7 @@ Aluno do curso de Sistemas de Informação na [Antonio Meneghetti Faculdade - AM
 
 
 - Meu canal no youtube: [Yuri Garcia](https://www.youtube.com/channel/UC-KchKSV_XH1e3W8OIf6-Bw)
-- Discord do meu servidor: [Yuri Garcia](https://discord.gg/fAWE67cZ9k)
+- Discord do meu servidor: [Kingdoms Network](https://discord.gg/fAWE67cZ9k)
 <!--
 **owYuriGG/owYuriGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
