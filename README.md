@@ -2,6 +2,10 @@
 
 Aluno do curso de Sistemas de Informação na [Antonio Meneghetti Faculdade - AMF](https://faculdadeam.edu.br), aluno do Núcleo Preparatório de Oficiais da Reserva de Material Bélico (Exército). Sou dono de uma Network de servidores de Minecraft, a Kingdoms Network, atualmente fechado.
 
+Nos tempos livres eu gosto de fazer live na [twitch](https://www.twitch.tv/yurigg_), ouvir música e assistir filmes/séries.
+
+Sou apaixonado por jogos, ta afim de jogar? Só chama :D, jogo de tudo umpouco!
+
 <div align="center" >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owYuriGG&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
