@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Aluno do curso de Sistemas de Informação na Antonio Meneghetti Faculdade - AMF, aluno do Núcleo Preparatório de Oficiais da Reserva de Material Bélico (Exército). Sou dono de uma Network de servidores de Minecraft, a Kingdoms Network, atualmente fechado.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=owGarcia)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **owYuriGG/owYuriGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
