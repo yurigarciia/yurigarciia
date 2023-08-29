@@ -8,7 +8,8 @@ Aluno do curso de Sistemas de Informação na [Antonio Meneghetti Faculdade - AM
 </div>
 
 
-Nos tempos livres eu gosto de fazer live na [twitch](https://www.twitch.tv/yurigg_), ouvir música e assistir filmes/séries. \n
+Nos tempos livres eu gosto de fazer live na [twitch](https://www.twitch.tv/yurigg_), ouvir música e assistir filmes/séries.
+
 Sou apaixonado por jogos, ta afim de jogar? Só chama :D, jogo de tudo umpouco!
 
 - Meu canal no youtube: [Yuri Garcia](https://www.youtube.com/channel/UC-KchKSV_XH1e3W8OIf6-Bw)
