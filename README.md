@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Aluno do curso de Sistemas de Informação na [Antonio Meneghetti Faculdade - AMF](https://faculdadeam.edu.br), aluno do Núcleo Preparatório de Oficiais da Reserva de Material Bélico (Exército). Sou dono de uma Network de servidores de Minecraft, a Kingdoms Network, atualmente fechado.
+Aluno do curso de Sistemas de Informação na [Antonio Meneghetti Faculdade - AMF](https://faculdadeam.edu.br) & aluno do Núcleo Preparatório de Oficiais da Reserva de Material Bélico (Exército). Sou dono de uma Network de servidores de Minecraft, a Kingdoms Network, atualmente fechado.
 
 <div align="center" >
 
