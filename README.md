@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Aluno do curso de Sistemas de Informação na [Antonio Meneghetti Faculdade - AMF](https://faculdadeam.edu.br) & aluno do Núcleo Preparatório de Oficiais da Reserva de Material Bélico (Exército). Sou dono de uma Network de servidores de Minecraft, a Kingdoms Network, atualmente fechado.
+Aluno do curso de Sistemas de Informação na [Antonio Meneghetti Faculdade - AMF](https://faculdadeam.edu.br). Sou dono de uma Network de servidores de Minecraft, a Kingdoms Network, um projeto criado por mim em 2020, inicialmente somente um servidor entre amigos, e acabou se tornando um dos servidores que injetou os servidores com o sistema Towny no Brasil, pouco utilizado na época, hoje em dia já disseminado entre a comunidade.
 
 <div align="center" >
 
