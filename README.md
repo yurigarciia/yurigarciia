@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Aluno do curso de Sistemas de Informação na [Antonio Meneghetti Faculdade - AMF](https://faculdadeam.edu.br), sou entuasiasta na área de programação backend, todos meus programas desenvolvidos atualmente são em Python, porém estou aprendendo Java e Javascript, meus trabalhos da faculdade (somente de cadeiras já concluídos) encontram-se em repositórios no meu perfil.
+Aluno do curso de Sistemas de Informação na [Antonio Meneghetti Faculdade - AMF](https://faculdadeam.edu.br), sou entuasiasta na área de programação backend, todos meus programas desenvolvidos atualmente são em Python, porém estou aprendendo Java e Javascript, meus trabalhos da faculdade (somente de cadeiras já concluídas) encontram-se em repositórios no meu perfil.
 
 
 Também sou dono de uma Network de servidores de Minecraft, a Kingdoms Network, um projeto criado por mim em 2020, inicialmente somente um servidor entre amigos, e acabou se tornando uma Network, vale ressaltar que o projeto ajudou a injetar o sistema Towny no Brasil, pouco utilizado na época, hoje em dia já disseminado entre a comunidade, projeto atualmente pausado devido a minha falta de tempo para tocar o mesmo.
