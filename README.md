@@ -20,3 +20,4 @@ Nos tempos livres eu gosto de fazer live na [twitch](https://www.twitch.tv/yurig
 Sou apaixonado por jogos, ta afim de jogar? Só chama :D, jogo de tudo umpouco!
 
 - Meu instagram:: [@yuri.garciia](https://www.instagram.com/yuri.garciia/)
+- Meu Linkedin:: [@ogarciia](https://www.linkedin.com/in/ogarciia/)
