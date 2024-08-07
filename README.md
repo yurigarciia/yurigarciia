@@ -1,13 +1,18 @@
 ### Hi there 👋
 
-Aluno do curso de Sistemas de Informação na [Antonio Meneghetti Faculdade - AMF](https://faculdadeam.edu.br), atualmente atuo na area de desenvolvimento frontend e mobile na Associação Brasileira de Ontopsicologia, meus trabalhos da faculdade (somente de cadeiras já concluídas) encontram-se em repositórios públicos no meu perfil.
+## Desenvolvedor Júnior de Frontend e Mobile | Estudante de Sistemas de Informação -  [AMF](https://faculdadeam.edu.br)
 
+Atualmente atuando como desenvolvedor frontend na Associação Brasileira de Ontopsicologia (ABO), onde sou responsável pela implementação e manutenção de interfaces web utilizando tecnologias como React.js e Next.js. Além disso, estou expandindo minhas habilidades para o desenvolvimento mobile, com experiência em React Native e Expo.
 
-Conhecimentos:
-- Frontend: Typescript, Javascript, React.js, Next.js e CSS
-- Backend: Python e Postgres
-- Mobile: React Native, Expo e React Native CLI
-- Geral: Git, Github, VPS e CI/CD
+Também possuo experiência como auxiliar administrativo na CR Alarmes - Sistemas de Segurança, onde contribuo com tarefas financeiras e de suporte técnico.
+
+Conhecimentos Técnicos:
+
+- Frontend: Typescript, Javascript, React.js, Next.js, CSS
+- Mobile: React Native, Expo, React Native CLI
+- Backend: Python, Postgres
+- Ferramentas e Metodologias: Git, GitHub, CI/CD, VPS
+- Outras Competências: Atendimento ao cliente, suporte técnico, edição de foto/vídeo, manutenção de computadores, ERP, gestão de equipes.
 
 <div align="center" >
 
