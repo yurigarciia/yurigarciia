@@ -2,9 +2,7 @@
 
 ## Desenvolvedor Júnior de Frontend e Mobile | Estudante de Sistemas de Informação -  [AMF](https://faculdadeam.edu.br)
 
-Atualmente atuando como desenvolvedor frontend na Associação Brasileira de Ontopsicologia (ABO), onde sou responsável pela implementação e manutenção de interfaces web utilizando tecnologias como React.js e Next.js. Além disso, estou expandindo minhas habilidades para o desenvolvimento mobile, com experiência em React Native e Expo.
-
-Também possuo experiência como auxiliar administrativo na CR Alarmes - Sistemas de Segurança, onde contribuo com tarefas financeiras e de suporte técnico.
+Atualmente atuando como desenvolvedor frontend na Associação Brasileira de Ontopsicologia (ABO), onde sou responsável pela implementação e manutenção de interfaces web utilizando tecnologias como React.js e Next.js. Também atuo na área de desenvolvimento mobile, principalmente na parte de correção de bugs e atualizações/otimizações de código, utilizando frameworks como React Native e Expo.
 
 Conhecimentos Técnicos:
 
@@ -24,5 +22,5 @@ Nos tempos livres eu gosto de fazer live na [twitch](https://www.twitch.tv/yurig
 
 Sou apaixonado por jogos, ta afim de jogar? Só chama :D, jogo de tudo umpouco!
 
-- Meu instagram:: [@yuri.garciia](https://www.instagram.com/yuri.garciia/)
-- Meu Linkedin:: [@ogarciia](https://www.linkedin.com/in/ogarciia/)
+- Meu instagram: [@yuri.garciia](https://www.instagram.com/yuri.garciia/)
+- Meu Linkedin: [@ogarciia](https://www.linkedin.com/in/ogarciia/)
