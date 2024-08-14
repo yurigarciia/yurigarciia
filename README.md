@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Júnior de Frontend e Mobile | Estudante de Sistemas de Informação -  [AMF](https://faculdadeam.edu.br)
 
-Atualmente atuando como desenvolvedor frontend na Associação Brasileira de Ontopsicologia (ABO), onde sou responsável pela implementação e manutenção de interfaces web utilizando tecnologias como React.js e Next.js. Também atuo na área de desenvolvimento mobile, principalmente na parte de correção de bugs e atualizações/otimizações de código, utilizando frameworks como React Native e Expo.
+Atualmente atuando como desenvolvedor frontend na Associação Brasileira de Ontopsicologia (ABO), onde sou responsável pela implementação e manutenção de interfaces web utilizando tecnologias como React.js e Next.js. Também atuo na parte de desenvolvimento mobile, principalmente na parte de correção de bugs e atualizações/otimizações de código, utilizando frameworks como React Native e Expo.
 
 Conhecimentos Técnicos:
 
