@@ -23,7 +23,7 @@ Sou apaixonado por solucionar problemas e otimizar processos, ajudando empresas 
 <div align="center" >
 
 
-![](https://github-readme-stats.vercel.app/api?username=davidcanas&theme=dark&hide_border=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=owYuriGG&theme=dark&hide_border=false&count_private=true)
 
 
   
