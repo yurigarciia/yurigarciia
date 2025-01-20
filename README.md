@@ -20,9 +20,7 @@ Sou apaixonado por solucionar problemas e otimizar processos, ajudando empresas 
 
 
 <div align="center" >
-![]
-  [![Top Langs]((https://github-readme-stats.vercel.app/api?username=owYuriGG&theme=dark&hide_border=false&count_private=true)]
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owYuriGG&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owYuriGG&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
