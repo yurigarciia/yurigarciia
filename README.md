@@ -19,9 +19,13 @@ Conhecimentos Técnicos:
 Sou apaixonado por solucionar problemas e otimizar processos, ajudando empresas a crescerem com tecnologias inteligentes e estratégias digitais.
 
 
+
 <div align="center" >
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owYuriGG&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
+
 
 
 Nos tempos livres eu gosto de fazer live na [twitch](https://www.twitch.tv/yurigg_), ouvir música e assistir filmes/séries.
