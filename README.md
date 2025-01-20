@@ -20,7 +20,7 @@ Sou apaixonado por solucionar problemas e otimizar processos, ajudando empresas 
 
 
 
-<div align="center" >
+<div align="start" >
 
 
 ![](https://github-readme-stats.vercel.app/api?username=owYuriGG&theme=dark&hide_border=false&count_private=true)
