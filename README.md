@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-## Jr. Software Developer | Estudante de Sistemas de Informação -  [AMF](https://faculdadeam.edu.br)
+## Jr. Software Developer | Fullstack | Web & Mobile -  [AMF](https://faculdadeam.edu.br)
 
-Atuo como desenvolvedor PJ, oferecendo soluções completas e personalizadas para empresas. Meu trabalho vai além da programação, abrangendo desde o levantamento de requisitos com o cliente até a entrega de produtos que geram valor real ao negócio. Desenvolvo aplicações web e mobile utilizando tecnologias modernas, automações de processos (relatórios, planilhas e integrações com CRMs), scripts otimizados para diversas necessidades e cuido de toda a relação contratual e técnica com os clientes.
+Atualmente atuo como Desenvolvedor I na Meta, contribuindo em projetos de frontend, backend e mobile com foco em performance, escalabilidade e boas práticas de engenharia.
 
-No meu dia a dia, alio conhecimento técnico avançado em desenvolvimento com habilidades interpessoais e de gestão para atender projetos de diferentes escalas. Tenho experiência sólida em banco de dados, infraestrutura, automação e frameworks avançados, garantindo eficiência e alta performance nos resultados.
+Tenho experiência prática em todo o ciclo de desenvolvimento, desde a análise e implementação até manutenção de sistemas, sempre aplicando metodologias ágeis, code review, integração contínua e testes automatizados.
+
+Minha trajetória inclui trabalhos como autônomo para empresas de diferentes portes, o que me deu visão ampla sobre integrações complexas, automação de processos e entrega de soluções sob medida. Hoje, aplico essa experiência em ambiente colaborativo, com foco em qualidade de código e impacto real no negócio.
 
 Conhecimentos Técnicos:
 
